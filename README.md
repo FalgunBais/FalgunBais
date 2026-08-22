@@ -73,22 +73,11 @@
 ![PlayStation Network](https://img.shields.io/badge/PSN-0070D1?style=for-the-badge\&logo=Playstation\&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FalgunBais&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true" height="170"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalgunBais&layout=compact&theme=dark&hide_border=true&langs_count=8" height="170"/>
-
-</div>
 
 ## 🔥 Contribution Streak
 
 <div align="center">
-
-<img src="https://streak-stats.demolab.com/?user=FalgunBais&theme=dark&hide_border=true" width="70%"/>
-
+<img src="https://streak-stats.demolab.com/?user=FalgunBais&theme=tokyonight&hide_border=true" width="80%">
 </div>
 
 ## 📈 Contribution Activity
