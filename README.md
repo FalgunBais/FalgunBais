@@ -76,30 +76,6 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 
 ---
 
-## 🌐 Connect With Me
-
-<p align="center">
-
-<a href="https://github.com/FalgunBais">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/falgun-singh-bais-6ab309288/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="https://instagram.com/falguniyaaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="mailto:falgunbais90@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
