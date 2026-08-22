@@ -6,29 +6,17 @@ I'm a B.Tech CSE student at VIT-AP, passionate about building futuristic softwar
 
 Currently building **VocaFlow** — an AI-powered gesture-controlled vocal processing system.
 
----
-
 ## 💫 About Me
 
 🔭 **Currently building:** VocaFlow – AI Gesture-Controlled Vocal Processing
-
 🤖 **Interested in:** AI, Computer Vision, Game Development & Intelligent Systems
-
 🎧 **Exploring:** Real-Time Audio Processing & Digital Signal Processing
-
 🌱 **Currently learning:** Computer Vision, Unity, AI/ML, System Design & Cloud
-
 💻 **Languages:** Python, Java, C, C++, C#, JavaScript, TypeScript
-
 ☁️ **Cloud:** AWS, Google Cloud, Vercel
-
 🎨 **Creative:** Blender, Figma, Adobe, Canva
-
 ✈️ **Also interested in:** Aviation & Flight Training
-
 ⚡ **Fun fact:** I love building futuristic projects that combine AI, music, gaming and human interaction.
-
----
 
 ## 🛠️ Tech Stack
 
@@ -66,74 +54,48 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
 
----
-
 ## 🐍 Contribution Snake
 
 <div align="center">
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="95%">
 </div>
-
----
 
 ## 🔥 Contribution Streak
 
 <p align="center">
-
-<img src="https://streak-stats.demolab.com/?user=FalgunBais&theme=tokyonight&hide_border=true"/>
-
+<img src="https://streak-stats.demolab.com/?user=FalgunBais&theme=tokyonight&hide_border=true">
 </p>
-
----
 
 ## 📈 Contribution Activity
 
 <p align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=FalgunBais&theme=tokyo-night&hide_border=true&area=true"/>
-
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FalgunBais&theme=tokyo-night&hide_border=true&area=true">
 </p>
-
----
 
 ## 🌐 Connect With Me
 
 <p align="center">
-
 <a href="https://github.com/FalgunBais">
-<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white">
 </a>
-
 <a href="https://www.linkedin.com/in/falgun-singh-bais-6ab309288/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
 </a>
-
 <a href="https://instagram.com/falguniyaaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
-
 <a href="mailto:falgunbais90@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
 </a>
-
 </p>
-
----
 
 ## 👀 Profile Visitors
 
 <p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=FalgunBais&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
-
+<img src="https://komarev.com/ghpvc/?username=FalgunBais&label=Profile%20Views&color=0e75b6&style=for-the-badge">
 </p>
 
----
-
 <p align="center">
-
 ### 💡 Build. Experiment. Break. Learn. Repeat.
-
 **Always building something futuristic 🚀**
-
 </p>
