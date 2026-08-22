@@ -100,18 +100,6 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 
 ---
 
-## 📊 GitHub Analytics
-
-<p align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=FalgunBais&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github&include_all_commits=true" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=FalgunBais&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" height="180"/>
-
-</p>
-
----
-
 ## 🔥 Contribution Streak
 
 <p align="center">
