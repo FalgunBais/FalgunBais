@@ -18,7 +18,7 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 ✈️ **Also interested in:** Aviation & Flight Training
 ⚡ **Fun fact:** I love building futuristic projects that combine AI, music, gaming and human interaction.
 
-🛠️ Tech Stack
+##🛠️ Tech Stack
 
 <p align="center">
 
