@@ -14,31 +14,6 @@
 
 ⚡ Fun fact: **I love building futuristic software that combines AI, music, gaming, and human interaction.**
 
-## 🌐 Socials
-
-<div align="center">
-
-<a href="https://instagram.com/falguniyaaa">
-<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
-</a>
-
-<a href="https://www.linkedin.com/in/falgun-singh-bais-6ab309288/">
-<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-
-<a href="mailto:falgunbais90@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
-</div>
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="95%"/>
-
-</div>
 
 ## 💻 Tech Stack
 
@@ -74,6 +49,15 @@
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)
 
 
+## 🐍 Contribution Snake
+
+<div align="center">
+
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="95%"/>
+
+</div>
+
+
 ## 🔥 Contribution Streak
 
 <div align="center">
@@ -85,6 +69,24 @@
 <div align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalgunBais&theme=github-dark&hide_border=true&area=true&custom_title=Falgun's%20Contribution%20Graph" width="95%"/>
+
+</div>
+
+## 🌐 Socials
+
+<div align="center">
+
+<a href="https://instagram.com/falguniyaaa">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/falgun-singh-bais-6ab309288/">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="mailto:falgunbais90@gmail.com">
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
 
 </div>
 
