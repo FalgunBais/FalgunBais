@@ -30,37 +30,6 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 
 ---
 
-## 🧠 What I Build
-
-```text
-Artificial Intelligence
-        ↓
-Computer Vision → Human Interaction
-        ↓
-Real-Time Systems
-        ↓
-Creative Applications
-        ↓
-Cloud Deployment
-```
-
----
-
-## 🚀 Featured Project
-
-### 🎙️ VocaFlow — AI Gesture-Controlled Vocal Processing
-
-An experimental real-time system combining:
-
-* 🎥 Computer Vision
-* ✋ Gesture Recognition
-* 🎙️ Real-Time Audio
-* 🎛️ Digital Signal Processing
-* 🤖 Artificial Intelligence
-* ⚡ Low-Latency Interaction
-
----
-
 ## 🛠️ Tech Stack
 
 ### 👨‍💻 Programming
@@ -75,7 +44,6 @@ An experimental real-time system combining:
 
 ### 🤖 AI / ML / Computer Vision
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge\&logo=python\&logoColor=white)
 ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=for-the-badge\&logo=opencv\&logoColor=white)
 
 ### 🌐 Web Development
@@ -97,6 +65,16 @@ An experimental real-time system combining:
 ![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge\&logo=adobe\&logoColor=white)
 ![Premiere Pro](https://img.shields.io/badge/Premiere_Pro-9999FF?style=for-the-badge\&logo=adobepremierepro\&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge\&logo=canva\&logoColor=white)
+
+---
+
+## 🐍 Contribution Snake
+
+<p align="center">
+
+<img src="https://raw.githubusercontent.com/FalgunBais/FalgunBais/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
+
+</p>
 
 ---
 
@@ -151,26 +129,6 @@ An experimental real-time system combining:
 <p align="center">
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=FalgunBais&theme=tokyo-night&hide_border=true&area=true"/>
-
-</p>
-
----
-
-## 🏆 GitHub Achievements
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=FalgunBais&theme=tokyonight&no-frame=true&no-bg=true&margin-w=4"/>
-
-</p>
-
----
-
-## 🐍 Contribution Snake
-
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/FalgunBais/FalgunBais/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake"/>
 
 </p>
 
