@@ -70,11 +70,9 @@ Currently building **VocaFlow** — an AI-powered gesture-controlled vocal proce
 
 ## 🐍 Contribution Snake
 
-<p align="center">
-
-<img src="https://raw.githubusercontent.com/FalgunBais/FalgunBais/output/github-contribution-grid-snake-dark.svg" alt="GitHub Contribution Snake" width="100%"/>
-
-</p>
+<div align="center">
+<img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" />
+</div>
 
 ---
 
