@@ -14,7 +14,6 @@
 
 ⚡ Fun fact: **I love building futuristic software that combines AI, music, gaming, and human interaction.**
 
-
 ## 💻 Tech Stack
 
 ![C](https://img.shields.io/badge/C-00599C?style=for-the-badge\&logo=c\&logoColor=white)
@@ -48,7 +47,6 @@
 ![PlayStation Network](https://img.shields.io/badge/PSN-0070D1?style=for-the-badge\&logo=Playstation\&logoColor=white)
 ![Steam](https://img.shields.io/badge/Steam-000000?style=for-the-badge\&logo=steam\&logoColor=white)
 
-
 ## 🐍 Contribution Snake
 
 <div align="center">
@@ -56,7 +54,6 @@
 <img src="https://profile-readme-generator.com/assets/snake.svg" alt="Snake animation" width="95%"/>
 
 </div>
-
 
 ## 🔥 Contribution Streak
 
@@ -75,6 +72,10 @@
 ## 🌐 Socials
 
 <div align="center">
+
+<a href="https://github.com/FalgunBais">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 <a href="https://instagram.com/falguniyaaa">
 <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
